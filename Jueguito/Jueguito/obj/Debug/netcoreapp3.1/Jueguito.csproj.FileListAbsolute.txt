@@ -1,0 +1,14 @@
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\bin\Debug\netcoreapp3.1\Jueguito.exe
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\bin\Debug\netcoreapp3.1\Jueguito.deps.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\bin\Debug\netcoreapp3.1\Jueguito.runtimeconfig.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\bin\Debug\netcoreapp3.1\Jueguito.runtimeconfig.dev.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\bin\Debug\netcoreapp3.1\Jueguito.dll
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\bin\Debug\netcoreapp3.1\Jueguito.pdb
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.csproj.AssemblyReference.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.AssemblyInfoInputs.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.AssemblyInfo.cs
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.csproj.CoreCompileInputs.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.dll
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.pdb
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\Jueguito\Jueguito\obj\Debug\netcoreapp3.1\Jueguito.genruntimeconfig.cache
