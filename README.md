@@ -1,1 +1,1 @@
-Python code for a App organizer app
+Lmao idk what half of this stuff does
