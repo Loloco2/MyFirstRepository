@@ -1,0 +1,14 @@
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\bin\Debug\netcoreapp3.1\CalculadoraPractica.exe
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\bin\Debug\netcoreapp3.1\CalculadoraPractica.deps.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\bin\Debug\netcoreapp3.1\CalculadoraPractica.runtimeconfig.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\bin\Debug\netcoreapp3.1\CalculadoraPractica.runtimeconfig.dev.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\bin\Debug\netcoreapp3.1\CalculadoraPractica.dll
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\bin\Debug\netcoreapp3.1\CalculadoraPractica.pdb
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.csproj.AssemblyReference.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.AssemblyInfoInputs.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.AssemblyInfo.cs
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.csproj.CoreCompileInputs.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.dll
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.pdb
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CalculadoraPractica\CalculadoraPractica\obj\Debug\netcoreapp3.1\CalculadoraPractica.genruntimeconfig.cache
