@@ -1,0 +1,14 @@
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\bin\Debug\netcoreapp3.1\CUMpleaños.exe
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\bin\Debug\netcoreapp3.1\CUMpleaños.deps.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\bin\Debug\netcoreapp3.1\CUMpleaños.runtimeconfig.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\bin\Debug\netcoreapp3.1\CUMpleaños.runtimeconfig.dev.json
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\bin\Debug\netcoreapp3.1\CUMpleaños.dll
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\bin\Debug\netcoreapp3.1\CUMpleaños.pdb
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.csproj.AssemblyReference.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.AssemblyInfoInputs.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.AssemblyInfo.cs
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.csproj.CoreCompileInputs.cache
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.dll
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.pdb
+D:\Uni\2DO SEMESTRTE\Programacion I\Codigos Visual Studio\CUMpleaños\CUMpleaños\obj\Debug\netcoreapp3.1\CUMpleaños.genruntimeconfig.cache
